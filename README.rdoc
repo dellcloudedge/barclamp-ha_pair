@@ -1,0 +1,2 @@
+This barclamp provides HA paired machines, using DRBD and Chronosync.
+
